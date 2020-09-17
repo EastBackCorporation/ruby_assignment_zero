@@ -1,6 +1,7 @@
-# coding: utf-8
+# frozen_string_literal: true
+# テキスト: ゼロからわかる　Ruby 超入門
 #
-# 課題0401
+# 課題401
 # 1: 以下の4つの文字列を要素としてもつ配列を定義してください。
 #   'Pen'、'Pineapple', 'Apple', 'Pen'
 #
