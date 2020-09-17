@@ -1,7 +1,7 @@
 # frozen_string_literal: true
-
+# テキスト: ゼロからわかる　Ruby 超入門
 #
-# 課題0602
+# 課題602
 #
 # (1) Numeric(数値)
 # (2) String(文字列)
